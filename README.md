@@ -2,6 +2,8 @@
 
 Este proyecto demuestra cómo conectar una aplicación Next.js con una base de datos PostgreSQL utilizando el paquete `pg`.
 
+![Demo](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/refs/heads/master/connect-nextjs-with-postgres.png)
+
 ## Características
 
 - Conexión a base de datos PostgreSQL
